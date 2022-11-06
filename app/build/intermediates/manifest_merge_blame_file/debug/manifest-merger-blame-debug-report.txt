@@ -1,0 +1,238 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.loginui.tapbit"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\projects\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\projects\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\projects\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\projects\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\projects\app\src\main\AndroidManifest.xml:7:5-81
+12-->C:\projects\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\projects\app\src\main\AndroidManifest.xml:8:5-80
+13-->C:\projects\app\src\main\AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->[net.gotev:uploadservice:2.1] C:\Users\msi\.gradle\caches\transforms-3\6100e3e4406afd2b08c3c3fe200ec49a\transformed\jetified-uploadservice-2.1\AndroidManifest.xml:13:5-68
+14-->[net.gotev:uploadservice:2.1] C:\Users\msi\.gradle\caches\transforms-3\6100e3e4406afd2b08c3c3fe200ec49a\transformed\jetified-uploadservice-2.1\AndroidManifest.xml:13:22-65
+15
+16    <application
+16-->C:\projects\app\src\main\AndroidManifest.xml:10:5-99:19
+17        android:allowBackup="true"
+17-->C:\projects\app\src\main\AndroidManifest.xml:11:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.7.0] C:\Users\msi\.gradle\caches\transforms-3\d8338c189490aee58604e111af57865f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+19        android:dataExtractionRules="@xml/data_extraction_rules"
+19-->C:\projects\app\src\main\AndroidManifest.xml:12:9-65
+20        android:debuggable="true"
+21        android:fullBackupContent="@xml/backup_rules"
+21-->C:\projects\app\src\main\AndroidManifest.xml:13:9-54
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\projects\app\src\main\AndroidManifest.xml:14:9-43
+23        android:label="@string/app_name"
+23-->C:\projects\app\src\main\AndroidManifest.xml:15:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->C:\projects\app\src\main\AndroidManifest.xml:16:9-54
+25        android:supportsRtl="true"
+25-->C:\projects\app\src\main\AndroidManifest.xml:17:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.TAPBIT"
+27-->C:\projects\app\src\main\AndroidManifest.xml:18:9-44
+28        android:usesCleartextTraffic="true" >
+28-->C:\projects\app\src\main\AndroidManifest.xml:19:9-44
+29        <activity
+29-->C:\projects\app\src\main\AndroidManifest.xml:21:9-23:40
+30            android:name="com.loginui.tapbit.student.EducationalHistory.UpdateEducationalHistory"
+30-->C:\projects\app\src\main\AndroidManifest.xml:22:13-80
+31            android:exported="false" />
+31-->C:\projects\app\src\main\AndroidManifest.xml:23:13-37
+32        <activity
+32-->C:\projects\app\src\main\AndroidManifest.xml:24:9-26:40
+33            android:name="com.loginui.tapbit.CreateEducationalHistory"
+33-->C:\projects\app\src\main\AndroidManifest.xml:25:13-53
+34            android:exported="false" />
+34-->C:\projects\app\src\main\AndroidManifest.xml:26:13-37
+35        <activity
+35-->C:\projects\app\src\main\AndroidManifest.xml:27:9-29:40
+36            android:name="com.loginui.tapbit.GlobalVariable$EducationalHistoryDashBoard"
+36-->C:\projects\app\src\main\AndroidManifest.xml:28:13-71
+37            android:exported="false" />
+37-->C:\projects\app\src\main\AndroidManifest.xml:29:13-37
+38        <activity
+38-->C:\projects\app\src\main\AndroidManifest.xml:30:9-32:40
+39            android:name="com.loginui.tapbit.student.semresults.UpdatedSemResults"
+39-->C:\projects\app\src\main\AndroidManifest.xml:31:13-65
+40            android:exported="false" />
+40-->C:\projects\app\src\main\AndroidManifest.xml:32:13-37
+41        <activity
+41-->C:\projects\app\src\main\AndroidManifest.xml:33:9-35:40
+42            android:name="com.loginui.tapbit.student.semresults.AddNewSemesterResults"
+42-->C:\projects\app\src\main\AndroidManifest.xml:34:13-69
+43            android:exported="false" />
+43-->C:\projects\app\src\main\AndroidManifest.xml:35:13-37
+44        <activity
+44-->C:\projects\app\src\main\AndroidManifest.xml:36:9-38:40
+45            android:name="com.loginui.tapbit.student.semresults.SemResultsDasboard"
+45-->C:\projects\app\src\main\AndroidManifest.xml:37:13-66
+46            android:exported="false" />
+46-->C:\projects\app\src\main\AndroidManifest.xml:38:13-37
+47        <activity
+47-->C:\projects\app\src\main\AndroidManifest.xml:39:9-41:40
+48            android:name="com.loginui.tapbit.PDFViewer"
+48-->C:\projects\app\src\main\AndroidManifest.xml:40:13-38
+49            android:exported="false" />
+49-->C:\projects\app\src\main\AndroidManifest.xml:41:13-37
+50        <activity
+50-->C:\projects\app\src\main\AndroidManifest.xml:42:9-44:40
+51            android:name="com.loginui.tapbit.notice.ViewNoticeList"
+51-->C:\projects\app\src\main\AndroidManifest.xml:43:13-50
+52            android:exported="false" />
+52-->C:\projects\app\src\main\AndroidManifest.xml:44:13-37
+53        <activity
+53-->C:\projects\app\src\main\AndroidManifest.xml:45:9-47:40
+54            android:name="com.loginui.tapbit.student.UpdateStudentProfilePicture"
+54-->C:\projects\app\src\main\AndroidManifest.xml:46:13-64
+55            android:exported="false" />
+55-->C:\projects\app\src\main\AndroidManifest.xml:47:13-37
+56        <activity
+56-->C:\projects\app\src\main\AndroidManifest.xml:48:9-50:40
+57            android:name="com.loginui.tapbit.student.SaveStudentEntitySingleTime"
+57-->C:\projects\app\src\main\AndroidManifest.xml:49:13-64
+58            android:exported="false" />
+58-->C:\projects\app\src\main\AndroidManifest.xml:50:13-37
+59        <activity
+59-->C:\projects\app\src\main\AndroidManifest.xml:51:9-53:40
+60            android:name="com.loginui.tapbit.notice.CreateNotice"
+60-->C:\projects\app\src\main\AndroidManifest.xml:52:13-48
+61            android:exported="false" />
+61-->C:\projects\app\src\main\AndroidManifest.xml:53:13-37
+62        <activity
+62-->C:\projects\app\src\main\AndroidManifest.xml:54:9-56:40
+63            android:name="com.loginui.tapbit.studentlist.StudentsList"
+63-->C:\projects\app\src\main\AndroidManifest.xml:55:13-53
+64            android:exported="false" />
+64-->C:\projects\app\src\main\AndroidManifest.xml:56:13-37
+65        <activity
+65-->C:\projects\app\src\main\AndroidManifest.xml:57:9-59:40
+66            android:name="com.loginui.tapbit.student.CreateNewStudent"
+66-->C:\projects\app\src\main\AndroidManifest.xml:58:13-53
+67            android:exported="false" />
+67-->C:\projects\app\src\main\AndroidManifest.xml:59:13-37
+68        <activity
+68-->C:\projects\app\src\main\AndroidManifest.xml:60:9-62:40
+69            android:name="com.loginui.tapbit.cordinator.CordinatorDashboard"
+69-->C:\projects\app\src\main\AndroidManifest.xml:61:13-59
+70            android:exported="false" />
+70-->C:\projects\app\src\main\AndroidManifest.xml:62:13-37
+71        <activity
+71-->C:\projects\app\src\main\AndroidManifest.xml:63:9-65:40
+72            android:name="com.loginui.tapbit.admin.AdminDashboard"
+72-->C:\projects\app\src\main\AndroidManifest.xml:64:13-49
+73            android:exported="false" />
+73-->C:\projects\app\src\main\AndroidManifest.xml:65:13-37
+74        <activity
+74-->C:\projects\app\src\main\AndroidManifest.xml:66:9-68:40
+75            android:name="com.loginui.tapbit.professor.ProfessorDashboard"
+75-->C:\projects\app\src\main\AndroidManifest.xml:67:13-57
+76            android:exported="false" />
+76-->C:\projects\app\src\main\AndroidManifest.xml:68:13-37
+77        <activity
+77-->C:\projects\app\src\main\AndroidManifest.xml:69:9-72:52
+78            android:name="com.loginui.tapbit.student.StudentResume"
+78-->C:\projects\app\src\main\AndroidManifest.xml:70:13-50
+79            android:exported="false"
+79-->C:\projects\app\src\main\AndroidManifest.xml:71:13-37
+80            android:screenOrientation="portrait" />
+80-->C:\projects\app\src\main\AndroidManifest.xml:72:13-49
+81        <activity
+81-->C:\projects\app\src\main\AndroidManifest.xml:73:9-76:52
+82            android:name="com.loginui.tapbit.student.StudentDashboard"
+82-->C:\projects\app\src\main\AndroidManifest.xml:74:13-53
+83            android:exported="false"
+83-->C:\projects\app\src\main\AndroidManifest.xml:75:13-37
+84            android:screenOrientation="portrait" />
+84-->C:\projects\app\src\main\AndroidManifest.xml:76:13-49
+85        <activity
+85-->C:\projects\app\src\main\AndroidManifest.xml:77:9-80:52
+86            android:name="com.loginui.tapbit.login.Login"
+86-->C:\projects\app\src\main\AndroidManifest.xml:78:13-40
+87            android:exported="false"
+87-->C:\projects\app\src\main\AndroidManifest.xml:79:13-37
+88            android:screenOrientation="portrait" />
+88-->C:\projects\app\src\main\AndroidManifest.xml:80:13-49
+89        <activity
+89-->C:\projects\app\src\main\AndroidManifest.xml:81:9-90:20
+90            android:name="com.loginui.tapbit.login.Introductory"
+90-->C:\projects\app\src\main\AndroidManifest.xml:82:13-47
+91            android:exported="true"
+91-->C:\projects\app\src\main\AndroidManifest.xml:83:13-36
+92            android:screenOrientation="portrait" >
+92-->C:\projects\app\src\main\AndroidManifest.xml:84:13-49
+93            <intent-filter>
+93-->C:\projects\app\src\main\AndroidManifest.xml:85:13-89:29
+94                <action android:name="android.intent.action.MAIN" />
+94-->C:\projects\app\src\main\AndroidManifest.xml:86:17-69
+94-->C:\projects\app\src\main\AndroidManifest.xml:86:25-66
+95
+96                <category android:name="android.intent.category.LAUNCHER" />
+96-->C:\projects\app\src\main\AndroidManifest.xml:88:17-77
+96-->C:\projects\app\src\main\AndroidManifest.xml:88:27-74
+97            </intent-filter>
+98        </activity>
+99        <activity
+99-->C:\projects\app\src\main\AndroidManifest.xml:91:9-94:52
+100            android:name="com.loginui.tapbit.MainActivity"
+100-->C:\projects\app\src\main\AndroidManifest.xml:92:13-41
+101            android:exported="false"
+101-->C:\projects\app\src\main\AndroidManifest.xml:93:13-37
+102            android:screenOrientation="portrait" />
+102-->C:\projects\app\src\main\AndroidManifest.xml:94:13-49
+103
+104        <meta-data
+104-->C:\projects\app\src\main\AndroidManifest.xml:96:9-98:57
+105            android:name="preloaded_fonts"
+105-->C:\projects\app\src\main\AndroidManifest.xml:97:13-43
+106            android:resource="@array/preloaded_fonts" />
+106-->C:\projects\app\src\main\AndroidManifest.xml:98:13-54
+107
+108        <service
+108-->[net.gotev:uploadservice:2.1] C:\Users\msi\.gradle\caches\transforms-3\6100e3e4406afd2b08c3c3fe200ec49a\transformed\jetified-uploadservice-2.1\AndroidManifest.xml:16:9-20:19
+109            android:name="net.gotev.uploadservice.UploadService"
+109-->[net.gotev:uploadservice:2.1] C:\Users\msi\.gradle\caches\transforms-3\6100e3e4406afd2b08c3c3fe200ec49a\transformed\jetified-uploadservice-2.1\AndroidManifest.xml:17:13-65
+110            android:enabled="true"
+110-->[net.gotev:uploadservice:2.1] C:\Users\msi\.gradle\caches\transforms-3\6100e3e4406afd2b08c3c3fe200ec49a\transformed\jetified-uploadservice-2.1\AndroidManifest.xml:18:13-35
+111            android:exported="true" >
+111-->[net.gotev:uploadservice:2.1] C:\Users\msi\.gradle\caches\transforms-3\6100e3e4406afd2b08c3c3fe200ec49a\transformed\jetified-uploadservice-2.1\AndroidManifest.xml:19:13-36
+112        </service>
+113
+114        <provider
+114-->[androidx.emoji2:emoji2:1.0.0] C:\Users\msi\.gradle\caches\transforms-3\dafda43020c998140bb590dd363804eb\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+115            android:name="androidx.startup.InitializationProvider"
+115-->[androidx.emoji2:emoji2:1.0.0] C:\Users\msi\.gradle\caches\transforms-3\dafda43020c998140bb590dd363804eb\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+116            android:authorities="com.loginui.tapbit.androidx-startup"
+116-->[androidx.emoji2:emoji2:1.0.0] C:\Users\msi\.gradle\caches\transforms-3\dafda43020c998140bb590dd363804eb\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+117            android:exported="false" >
+117-->[androidx.emoji2:emoji2:1.0.0] C:\Users\msi\.gradle\caches\transforms-3\dafda43020c998140bb590dd363804eb\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+118            <meta-data
+118-->[androidx.emoji2:emoji2:1.0.0] C:\Users\msi\.gradle\caches\transforms-3\dafda43020c998140bb590dd363804eb\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+119                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+119-->[androidx.emoji2:emoji2:1.0.0] C:\Users\msi\.gradle\caches\transforms-3\dafda43020c998140bb590dd363804eb\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+120                android:value="androidx.startup" />
+120-->[androidx.emoji2:emoji2:1.0.0] C:\Users\msi\.gradle\caches\transforms-3\dafda43020c998140bb590dd363804eb\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+121            <meta-data
+121-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\msi\.gradle\caches\transforms-3\fb7578b74fadc6b60a379e8d199d207c\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+122                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+122-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\msi\.gradle\caches\transforms-3\fb7578b74fadc6b60a379e8d199d207c\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+123                android:value="androidx.startup" />
+123-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\msi\.gradle\caches\transforms-3\fb7578b74fadc6b60a379e8d199d207c\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+124        </provider>
+125    </application>
+126
+127</manifest>

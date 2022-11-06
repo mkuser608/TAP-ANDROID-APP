@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="5dp"
+    android:elevation="5dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contextClickable="true"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/imgPdf"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/pdfimage" />
+
+        <TextView
+            android:id="@+id/noticeTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Notice Title"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_toRightOf="@id/imgPdf"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Notice Date : "
+            android:textSize="16dp"
+            android:layout_marginTop="5dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@id/imgPdf"
+            android:layout_below="@id/noticeTitle"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:id="@+id/noticeDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="15/12/2020"
+            android:layout_marginTop="5dp"
+            android:textSize="16sp"
+            android:layout_toRightOf="@id/textView"
+            android:layout_below="@id/noticeTitle"/>
+
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="5dp"
+    app:cardCornerRadius="5dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contextClickable="true"
+        android:padding="16dp">
+      <TextView
+          android:id="@+id/textView1"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Sem No.:"
+          android:textColor="@color/black"
+          android:textSize="18sp"
+          android:textStyle="bold"/>
+
+      <TextView
+          android:id="@+id/semNumber"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginLeft="5dp"
+          android:layout_toRightOf="@id/textView1"
+          android:text="5"
+          android:textColor="@color/blue"
+          android:textSize="18sp" />
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reg. No.:"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_toRightOf="@id/semNumber"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:id="@+id/studentSemRegNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="19030430100"
+            android:textSize="18sp"
+            android:textColor="@color/blue"
+            android:layout_toRightOf="@id/textView2"/>
+
+
+      <TextView
+          android:id="@+id/textView3"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@id/textView1"
+          android:layout_marginTop="5dp"
+          android:text="SGPA :"
+          android:textColor="@color/black"
+          android:textSize="18sp"
+          android:textStyle="bold" />
+        <TextView
+            android:id="@+id/semSGPA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8.89"
+            android:textSize="18sp"
+            android:layout_below="@id/textView1"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@id/textView3"
+            android:textColor="@color/blue"/>
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CGPA :"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:layout_below="@id/textView1"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@id/semSGPA"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:id="@+id/semCGPA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8.89"
+            android:textSize="18sp"
+            android:textColor="@color/blue"
+            android:layout_marginTop="5dp"
+            android:layout_below="@id/textView1"
+            android:layout_toRightOf="@id/textView4"/>
+        <TextView
+            android:id="@+id/semRemarks"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="pass"
+            android:textSize="18sp"
+            android:textColor="@color/Sucess_green"
+            android:layout_below="@id/textView1"
+            android:layout_toRightOf="@id/semCGPA"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"/>
+
+
+      <Button
+
+          android:id="@+id/updateSemResult"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/textView3"
+          android:layout_marginTop="5dp"
+          android:background="@drawable/button_bg"
+          android:text="Update" />
+      <Button
+          android:id="@+id/deleteSemResult"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/textView3"
+          android:layout_marginTop="5dp"
+          android:text="Delete"
+          app:backgroundTint="@null"
+          android:layout_marginLeft="20dp"
+          android:background="@drawable/button_bg"
+          android:layout_toRightOf="@id/updateSemResult"/>
+
+
+
+
+
+
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

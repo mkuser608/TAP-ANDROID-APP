@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.loginui.tapbit"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="32" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.TAPBIT"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.loginui.tapbit.student.EducationalHistory.UpdateEducationalHistory"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.CreateEducationalHistory"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.GlobalVariable$EducationalHistoryDashBoard"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.student.semresults.UpdatedSemResults"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.student.semresults.AddNewSemesterResults"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.student.semresults.SemResultsDasboard"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.PDFViewer"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.notice.ViewNoticeList"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.student.UpdateStudentProfilePicture"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.student.SaveStudentEntitySingleTime"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.notice.CreateNotice"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.studentlist.StudentsList"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.student.CreateNewStudent"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.cordinator.CordinatorDashboard"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.admin.AdminDashboard"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.professor.ProfessorDashboard"
+            android:exported="false" />
+        <activity
+            android:name="com.loginui.tapbit.student.StudentResume"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.loginui.tapbit.student.StudentDashboard"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.loginui.tapbit.login.Login"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.loginui.tapbit.login.Introductory"
+            android:exported="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.loginui.tapbit.MainActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <service
+            android:name="net.gotev.uploadservice.UploadService"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.loginui.tapbit.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.loginui.tapbit">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TAPBIT"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name=".student.EducationalHistory.UpdateEducationalHistory"
+            android:exported="false" />
+        <activity
+            android:name=".CreateEducationalHistory"
+            android:exported="false" />
+        <activity
+            android:name=".GlobalVariable$EducationalHistoryDashBoard"
+            android:exported="false" />
+        <activity
+            android:name=".student.semresults.UpdatedSemResults"
+            android:exported="false" />
+        <activity
+            android:name=".student.semresults.AddNewSemesterResults"
+            android:exported="false" />
+        <activity
+            android:name=".student.semresults.SemResultsDasboard"
+            android:exported="false" />
+        <activity
+            android:name=".PDFViewer"
+            android:exported="false" />
+        <activity
+            android:name=".notice.ViewNoticeList"
+            android:exported="false" />
+        <activity
+            android:name=".student.UpdateStudentProfilePicture"
+            android:exported="false" />
+        <activity
+            android:name=".student.SaveStudentEntitySingleTime"
+            android:exported="false" />
+        <activity
+            android:name=".notice.CreateNotice"
+            android:exported="false" />
+        <activity
+            android:name=".studentlist.StudentsList"
+            android:exported="false" />
+        <activity
+            android:name=".student.CreateNewStudent"
+            android:exported="false" />
+        <activity
+            android:name=".cordinator.CordinatorDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".admin.AdminDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".professor.ProfessorDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".student.StudentResume"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".student.StudentDashboard"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".login.Login"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".login.Introductory"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

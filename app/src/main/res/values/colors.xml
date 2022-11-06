@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seafoam">#C4DFE6</color>
+    <color name="wave">#53767A</color>
+    <color name="blue">#4E00FF</color>
+    <color name="deep_aqua">#537F87</color>
+    <color name="Error_red">#FF420E</color>
+    <color name="Warning_yellow">#FFEB3B</color>
+    <color name="Sucess_green">#11F800</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FF6600</color>
+    <color name="voilet">#47326E</color>
+    <color name="voilet_lite">#986FE3</color>
+    <color name="light_orange">#EFE4E0</color>
+</resources>

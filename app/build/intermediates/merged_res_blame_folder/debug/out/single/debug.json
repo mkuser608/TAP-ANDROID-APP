@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_save_student_entity_single_time.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\layout\\activity_save_student_entity_single_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable_bit_logo.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable\\bit_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_singleeducationhistoryforlist.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\EducationalHistory\\layout\\singleeducationhistoryforlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_cordinator_dashboard.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\cordinator\\layout\\activity_cordinator_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_schedule.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\schedule.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_pdfviewer.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layout\\activity_pdfviewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_updated_sem_results.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\semresults\\layout\\activity_updated_sem_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\admin\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_student.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\student.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable_login_edit_text.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable\\login_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_singlestudentforlist.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\layout\\singlestudentforlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable_notice.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable\\notice.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_idea.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\idea.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable_calendar.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_birthday.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\birthday.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_studenti.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\studenti.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_address.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\address.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_educational_history_dash_board.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\EducationalHistory\\layout\\activity_educational_history_dash_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_graduated.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\graduated.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_update_educational_history.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\EducationalHistory\\layout\\activity_update_educational_history.xml"
+    },
+    {
+        "merged": "com.loginui.tapbit.app-merged_res-29:/layout_activity_educational_history_dash_board.xml.flat",
+        "source": "com.loginui.tapbit.app-main-31:/layouts/students/EducationalHistory/layout/activity_educational_history_dash_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_results.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\results.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_useri.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\useri.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_create_notice.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\notice\\layout\\activity_create_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_singlenoticeforlist.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\notice\\layout\\singlenoticeforlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_students_list.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\layout\\activity_students_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_pdfimage.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\pdfimage.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_padlock.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\padlock.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable_next.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable\\next.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_fragment_login_all.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\login\\layout\\fragment_login_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_daily.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\daily.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_update_student_profile_picture.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\layout\\activity_update_student_profile_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_sem_results_dasboard.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\semresults\\layout\\activity_sem_results_dasboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_teacher.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\teacher.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\menu_searchstudentmenu.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\menu\\searchstudentmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_view_notice_list.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\notice\\layout\\activity_view_notice_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_duration.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\duration.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\font_lato.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\font\\lato.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_menu.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable_balck_circle.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable\\balck_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_create_educational_history.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\EducationalHistory\\layout\\activity_create_educational_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_sinlesemresultforlist.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\semresults\\layout\\sinlesemresultforlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_create_new_student.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\layout\\activity_create_new_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\login\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_certificate.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\certificate.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable_dotted.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable\\dotted.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_user.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_introductory.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layout\\activity_introductory.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_password.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable_background_round_corner_white.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable\\background_round_corner_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\font_baloo.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\font\\baloo.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable-v24_trophy.png.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable-v24\\trophy.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_student_dashboard.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\layout\\activity_student_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable_bg_login_ui.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable\\bg_login_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_student_resume.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\layout\\activity_student_resume.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_professor_dashboard.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\professor\\layout\\activity_professor_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-merged_res-29:\\layout_activity_add_new_semester_results.xml.flat",
+        "source": "C:\\Users\\msi\\.gradle\\daemon\\7.3.3\\com.loginui.tapbit.app-main-31:\\layouts\\students\\semresults\\layout\\activity_add_new_semester_results.xml"
+    }
+]

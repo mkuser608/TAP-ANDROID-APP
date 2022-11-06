@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="5dp"
+    android:elevation="5dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contextClickable="true"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/passingYear"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:layout_toRightOf="@id/imgStudent"
+            android:fontFamily="@font/aclonica"
+            android:gravity="fill_vertical"
+
+            android:rotation="-90"
+            android:text="2019"
+            android:textColor="@color/blue"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imgStudent"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/student" />
+
+        <TextView
+            android:id="@+id/nameStudent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_toRightOf="@id/passingYear"
+            android:text="Student Name"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/nameStudent"
+            android:layout_marginLeft="2dp"
+            android:layout_toRightOf="@id/passingYear"
+            android:text="Branch : "
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/branchText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/nameStudent"
+            android:layout_toRightOf="@id/textview1"
+            android:text="Name of branch"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/textview2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview1"
+            android:layout_marginLeft="2dp"
+            android:layout_toRightOf="@id/passingYear"
+            android:text="Roll No : "
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/rollText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/branchText"
+            android:layout_toRightOf="@id/textview2"
+            android:text="152 roll no"
+            android:textSize="16sp" />
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CGPA : "
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@+id/rollText"
+            android:layout_below="@id/branchText"
+            android:layout_marginLeft="5dp"/>
+
+        <TextView
+            android:id="@+id/cgpaText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/branchText"
+            android:layout_toRightOf="@id/textView3"
+            android:text="10.00"
+            android:textSize="16sp" />
+
+
+
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
